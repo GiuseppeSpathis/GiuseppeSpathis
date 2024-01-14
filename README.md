@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Giuseppe Spathis</h1>
 <h3 align="center">A developer from Italy</h3>
 
 <img align="right" alt="coding" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
-<p></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giuseppe&label=Profile%20views&color=0e75b6&style=flat" alt="giuseppe" /> </p>
 
 
