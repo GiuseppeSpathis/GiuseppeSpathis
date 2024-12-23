@@ -59,4 +59,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giuseppe&show_icons=true&locale=en" alt="giuseppe" /></p>
 
-<p align="left"><a href="[https://drive.google.com/file/d/1PajO54KxdzFd20GeddCDt-_kbyJICJn8/view?usp=drivesdk](https://drive.google.com/file/d/1CoKMQHMr6BoFmDQxt2bhfycPZ1RSjjo3/view?usp=drive_link)" target="_blank">Link to my CV</a></p>
+<p align="left"><a href="https://drive.google.com/file/d/1CoKMQHMr6BoFmDQxt2bhfycPZ1RSjjo3/view" target="_blank">Link to my CV</a></p>
