@@ -57,10 +57,10 @@
   </a> 
 </p>
 
-## Statistics:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GiuseppeSpathis&show_icons=true&locale=en" alt="giuseppe" /></p>
+## Statistics: 
+<p>&nbsp;<img align="center" src="https://github-readme-stats-omjqw93ut-giuseppe-spathis-projects.vercel.app/api?username=GiuseppeSpathis&show_icons=true&locale=en" alt="giuseppe" /></p>
 
 ## Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeSpathis&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-omjqw93ut-giuseppe-spathis-projects.vercel.app/api/top-langs/?username=GiuseppeSpathis&layout=compact&theme=radical)
 
 <p align="left"><a href="https://drive.google.com/file/d/1J3pIwo6jZjocxkywqk-01z-WpA3Y27Px/view?usp=sharing" target="_blank">Link to my CV</a></p>
