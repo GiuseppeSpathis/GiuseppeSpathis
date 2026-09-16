@@ -58,9 +58,10 @@
 </p>
 
 ## Statistics: 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats-teal-sigma-90.vercel.app/api?username=GiuseppeSpathis&show_icons=true&locale=en&v=1" alt="giuseppe" /></p>
 
 ## Top Languages:
 ![Top Languages](https://github-readme-stats-teal-sigma-90.vercel.app/api/top-langs/?username=GiuseppeSpathis&layout=compact&theme=radical&v=1)
-
+-->
 <p align="left"><a href="https://drive.google.com/file/d/1Y8OPbqFcodA9I85HA-UE9-P3xj-6H4xt/view?usp=drive_link" target="_blank">Link to my CV</a></p>
