@@ -57,8 +57,9 @@
   </a> 
 </p>
 
-## Statistics: 
 <!--
+## Statistics: 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats-teal-sigma-90.vercel.app/api?username=GiuseppeSpathis&show_icons=true&locale=en&v=1" alt="giuseppe" /></p>
 
 ## Top Languages:
